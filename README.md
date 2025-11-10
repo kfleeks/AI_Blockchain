@@ -93,8 +93,8 @@ This system is designed as an educational tool to help students understand:
 
 1. **Clone or download the repository**
    ```bash
-   git clone https://github.com/yourusername/prescription-blockchain.git
-   cd prescription-blockchain
+   git clone https://github.com/yourusername/AI_blockchain.git
+   cd AI_blockchain
    ```
 
 2. **No external dependencies required!**
@@ -107,7 +107,7 @@ This system is designed as an educational tool to help students understand:
 
 3. **Run the demonstration**
    ```bash
-   python prescription_blockchain.py
+   python AI_blockchain.py
    ```
 
 ### Optional: For Real LLM Integration
@@ -136,7 +136,7 @@ export OPENAI_API_KEY='your-api-key-here'
 Run the demonstration script:
 
 ```bash
-python prescription_blockchain.py
+python AI_blockchain.py
 ```
 
 This will execute three test cases:
@@ -147,7 +147,7 @@ This will execute three test cases:
 ### Programmatic Usage
 
 ```python
-from prescription_blockchain import PrescriptionTrackingSystem
+from AI_blockchain import PrescriptionTrackingSystem
 
 # Initialize the system
 system = PrescriptionTrackingSystem()
