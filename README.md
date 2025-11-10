@@ -10,23 +10,6 @@ A healthcare prescription tracking system that combines blockchain technology wi
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [System Architecture](#system-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Assignment Tasks](#assignment-tasks)
-- [Project Structure](#project-structure)
-- [API Reference](#api-reference)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## 🎯 Overview
 
 This project demonstrates the integration of two cutting-edge technologies:
